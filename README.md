@@ -45,11 +45,7 @@ I am always interested in web technology, so If you want to exchange or ask for 
 
 <h3>Statistics</h3>
 
-![Kitty's GitHub stats](https://github-readme-stats.vercel.app/api?username=kittyAndpuppy&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kittyAndpuppy&layout=compact)](https://github.com/kittyAndpuppy/github-readme-stats)
-
-<h3>My stats in Github</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=kittyAndpuppy">
 
 
 ------------
